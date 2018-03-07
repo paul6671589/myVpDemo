@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">vpdemo</string>
+
+    <string name="regVoicePrintOne">注册声纹锁一（按住说话）</string>
+    <string name="regVoicePrintTwo">注册声纹锁二（按住说话）</string>
+    <string name="verVoicePrint">验证声纹锁 （按住说话）</string>
+    <string name="reset">重置声纹 </string>
+    <string name="configure">参数设置 </string>
+    <string name="quit">退出 </string>
+    <string name="normalStatus">Normal </string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="record_words">请匀速读出注册词: </string>
+    <string name="processing">正在处理</string>
+    <string name="recording">正在录音</string>
+    <string name="no_speech">没有检测到语音</string>
+    <string name="not_same">与第一次录制声音不一致，请重新录制</string>
+    <string name="verify_fail">验证失败</string>
+    <string name="verify_sucess">验证成功</string>
+</resources>

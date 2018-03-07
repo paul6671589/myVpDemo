@@ -1,0 +1,3 @@
+include ':app', ':wavelib', ':libvoiceproc'
+project(':wavelib').projectDir = new File('wavelibrary')
+project(':libvoiceproc').projectDir = new File('libvoiceprocess')
